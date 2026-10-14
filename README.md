@@ -28,23 +28,15 @@ FPGA踩坑专业户｜云服务器折腾选手｜AI Agent玩具测试员
 - 低内存Linux服务器极限优化，抠每一点内存
 - AI Agent工作流，研究怎么让AI帮我干活少加班
 
-## 📊 GitHub 数据统计
-## 📊 GitHub 数据统计
-<div align="left">
-<!-- 基础信息卡片保留 -->
-<img src="https://github-readme-stats.vercel.app/api?username=TaoZZXX&show_icons=true&hide_border=true&theme=tokyonight" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaoZZXX&layout=compact&hide_border=true&theme=tokyonight" width="330"/>
-</div>
 
-### 📅 年度提交热力图（复刻GitHub主页贡献日历）
+### 📅 年度提交热力图（复刻GitHub贡献日历）
 <div align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaoZZXX&theme=tokyonight&hide_border=true" width="760" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=TaoZZXX&theme=tokyonight&hide_border=true" width="760" />
 </div>
-
 
 ## 💡 个人座右铭
 > BUG千千万，改完还有万万千；工程可以炸，面条不能差。
 
 ## 📫 联系我
 > 欢迎提Issue一起交流踩坑经验，来一起互相吐槽报错！
-邮箱：`792277389@qq.com`
+邮箱：`填写你的邮箱，不需要直接删除本行`
