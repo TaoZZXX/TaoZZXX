@@ -29,11 +29,10 @@ FPGA踩坑专业户｜云服务器折腾选手｜AI Agent玩具测试员
 - AI Agent工作流，研究怎么让AI帮我干活少加班
 
 
-### 📅 年度提交热力图（复刻GitHub贡献日历）
+### 📅 贡献记录
 <div align="left">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=TaoZZXX&theme=tokyonight&hide_border=true" width="760" />
+<img src="https://github-readme-stats.vercel.app/api/contributions?username=TaoZZXX&theme=tokyonight&hide_border=true" width="760"/>
 </div>
-
 ## 💡 个人座右铭
 > BUG千千万，改完还有万万千；工程可以炸，面条不能差。
 
