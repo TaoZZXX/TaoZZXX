@@ -1,32 +1,26 @@
 # 你好👋，我是 TaoZZXX
-嵌入式 / FPGA 开发者｜折腾服务器与AI智能体
+嵌入式/FPGA开发者｜服务器折腾爱好者｜AI Agent实验玩家
 
 ## 🧑‍💻 关于我
-- 🎓 电子信息专业研究生
-- 🔧 主攻：Verilog FPGA开发、Tang Nano系列开发板、Linux服务器运维
-- 🤖 感兴趣：OpenClaw龙虾智能体、后端开发、轻量博客部署
-- 📅 日期缩写参考：
-**月份：**
-一月Jan(January)｜二月Feb(February)｜三月Mar(March)｜四月Apr(April)｜五月May(May)｜六月Jun(June)
-七月Jul(July)｜八月Aug(August)｜九月Sep(September)｜十月Oct(October)｜十一月Nov(November)｜十二月Dec(December)
-
-**星期：**
-周日Sun(Sunday)｜周一Mon(Monday)｜周二Tue(Tuesday)｜周三Wed(Wednesday)｜周四Thu(Thursday)｜周五Fri(Friday)｜周六Sat(Saturday)
-
-## 🛠️ 技术栈
-
-
-
-
-
+- 🎓 电子信息专业在读研究生，主攻硬件开发与后端实践
+- 🔧 硬件方向：Tang Nano 9K/20K FPGA，Verilog开发，调试HDMI、OCR识别、小型硬件工程，踩过大量云源约束、编译报错的坑
+- 🖥️ 服务器折腾：阿里云轻量512M小机器，折腾SSH隧道、Xrdp远程桌面、部署Typecho博客，研究低内存环境下各种软件部署
+- 🤖 Agent 实验：研究 OpenClaw（龙虾）智能体，尝试手机通过TG远程操控服务器执行编译、运维任务
+- ☕ 日常：写代码、调硬件、排BUG，食堂干饭，专注技术，埋头搞项目
+- 📅 星期缩写速查
 
 
 ## 🚀 当前项目
 | 项目名称 | 项目说明 |
 | ---- | ---- |
-| **TangNano20K‑HDMI** | Tang Nano20K FPGA HDMI TMDS输出工程 |
-| **OpenClaw‑Docker** | 在512M轻量云服务器部署龙虾Agent |
-| **Typecho个人博客** | 阿里云上搭建轻量个人博客 |
+| **TangNano20K‑HDMI** | Tang Nano20K FPGA HDMI TMDS输出工程，踩遍LVDS引脚约束各种坑 |
+| **OpenClaw‑Docker** | 在512M低内存云服务器部署龙虾Agent，探索手机远程操控服务器 |
+| **Typecho个人博客** | 新加坡阿里云轻量机搭建个人博客，关注流量与带宽成本 |
+
+## 📚 正在学习
+- FPGA图像识别、OCR相关Verilog实现
+- Linux服务优化、低内存机器调优
+- AI Agent工作流，本地与云端大模型调度
 
 ## 📊 GitHub 数据统计
 <div align="left">
@@ -35,5 +29,5 @@
 </div>
 
 ## 📫 联系我
-> 可以提Issue一起交流代码！
-邮箱：`填写你的邮箱，不需要就直接删掉此行`
+> 欢迎提Issue交流硬件、服务器、代码相关问题！
+邮箱：`792277389@qq.com`
