@@ -1,26 +1,32 @@
 # 你好👋，我是 TaoZZXX
-嵌入式/FPGA开发者｜服务器折腾爱好者｜AI Agent实验玩家
+FPGA踩坑专业户｜云服务器折腾选手｜AI Agent玩具测试员
 
 ## 🧑‍💻 关于我
-- 🎓 电子信息专业在读研究生，主攻硬件开发与后端实践
-- 🔧 硬件方向：Tang Nano 9K/20K FPGA，Verilog开发，调试HDMI、OCR识别、小型硬件工程，踩过大量云源约束、编译报错的坑
-- 🖥️ 服务器折腾：阿里云轻量512M小机器，折腾SSH隧道、Xrdp远程桌面、部署Typecho博客，研究低内存环境下各种软件部署
-- 🤖 Agent 实验：研究 OpenClaw（龙虾）智能体，尝试手机通过TG远程操控服务器执行编译、运维任务
-- ☕ 日常：写代码、调硬件、排BUG，食堂干饭，专注技术，埋头搞项目
-- 📅 星期缩写速查
+- 🎓 电子信息在读研究生，大部分时间都在和BUG斗智斗勇
+- 🔧硬件日常：Tang Nano 9K/20K FPGA 反复受难，Verilog写代码五分钟，调引脚约束一下午，LVDS、CST约束坑踩了个遍
+- 🖥️服务器折磨实录：拿着512M内存的阿里云小机器疯狂折腾，SSH隧道、XRDP远程桌面轮番玩，部署Typecho博客时刻担心流量爆炸扣钱
+- 🤖Agent玩物：捣鼓 OpenClaw「龙虾」智能体，幻想拿手机发消息远程操控服务器编译工程，理想很丰满，报错一大堆
+- 🍚生活现状：调不通工程就去食堂干一碗面，代码可以烂，饭必须吃好，埋头搞技术，异性缘分基本为零
+
+## 🛠️ 技术栈
 
 
-## 🚀 当前项目
+
+
+
+
+
+## 🚀 当前折腾项目
 | 项目名称 | 项目说明 |
 | ---- | ---- |
-| **TangNano20K‑HDMI** | Tang Nano20K FPGA HDMI TMDS输出工程，踩遍LVDS引脚约束各种坑 |
-| **OpenClaw‑Docker** | 在512M低内存云服务器部署龙虾Agent，探索手机远程操控服务器 |
-| **Typecho个人博客** | 新加坡阿里云轻量机搭建个人博客，关注流量与带宽成本 |
+| **TangNano20K‑HDMI** | Tang Nano20K HDMI输出工程，把云源软件各种引脚报错全部体验一遍 |
+| **OpenClaw‑Docker** | 512M乞丐配置云服务器硬跑龙虾Agent，随时担心内存溢出直接寄 |
+| **Typecho个人博客** | 新加坡轻量机搭建博客，天天盯着带宽流量，害怕账单爆炸 |
 
-## 📚 正在学习
-- FPGA图像识别、OCR相关Verilog实现
-- Linux服务优化、低内存机器调优
-- AI Agent工作流，本地与云端大模型调度
+## 📚 正在折磨自己学习
+- FPGA OCR图像识别，Verilog写头大
+- 低内存Linux服务器极限优化，抠每一点内存
+- AI Agent工作流，研究怎么让AI帮我干活少加班
 
 ## 📊 GitHub 数据统计
 <div align="left">
@@ -28,6 +34,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaoZZXX&layout=compact&hide_border=true&theme=tokyonight" width="330"/>
 </div>
 
+## 💡 个人座右铭
+> BUG千千万，改完还有万万千；工程可以炸，面条不能差。
+
 ## 📫 联系我
-> 欢迎提Issue交流硬件、服务器、代码相关问题！
+> 欢迎提Issue一起交流踩坑经验，来一起互相吐槽报错！
 邮箱：`792277389@qq.com`
